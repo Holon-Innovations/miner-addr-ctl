@@ -1,4 +1,5 @@
 # mineraddrctl
+[![CI](https://github.com/Holon-Innovations/mineraddrctl/actions/workflows/ci.yml/badge.svg)](https://github.com/Holon-Innovations/mineraddrctl/actions/workflows/ci.yml)
 
 Utility program to assist with controlling miner owner, worker, and control addresses.
 
